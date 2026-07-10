@@ -1,14 +1,15 @@
 # Kuro Clicker
-A software used to make, record, customize and share macros. Its basically just a much better Tiny Task with more qol and features. These are for keyboard and mouse macros.
+A software used to make, record, customize and share macros. Its basically just a much better Tiny Task with more qol and features. These are for keyboard and mouse macros and currently only supports Windows.
 
 ## How to Install
 - Go to the most recent [release](https://github.com/Kuro-Suika/Kuro-Clicker/releases) and install the KuroClicker.zip
-- Extract it wherever you want but make sure it stays in the folder it comes with (it generates files and folders for configs and macros)
-- double click the Kuro Clicker.exe
+- Extract it wherever you want but make sure it stays in the folder it comes with (it generates files for configs and macros)
+- double click the Kuro Clicker.exe,
 Thats it
 
 ## How to use
-
+When you first open the app, open your settings and set your keybinds for the different actions. While the play/pause and record buttons work, they can mess up macros where you record mouse movements. Its much better to use the hotkeys for everything rather than the buttons. If your making macros for certain applications like Roblox, you will probably have to use "directinput" instead of the standard input backend.
+Check out this video if youd like to learn about specific settings and what they do. ""
 
 ## Features
 - Lists all macros and has a favorites and search bar filter
