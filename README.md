@@ -9,7 +9,7 @@ Thats it
 
 ## How to use
 When you first open the app, open your settings and set your keybinds for the different actions. While the play/pause and record buttons work, they can mess up macros where you record mouse movements. Its much better to use the hotkeys for everything rather than the buttons. If your making macros for certain applications like Roblox, you will probably have to use "directinput" instead of the standard input backend.
-Check out this video if youd like to learn about specific settings and what they do. ""
+Check out this video if youd like to learn about specific settings and what they do. https://youtu.be/TeNeBtRWHkg
 
 ## Features
 - Lists all macros and has a favorites and search bar filter
